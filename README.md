@@ -3,6 +3,7 @@ Proyect of TEA  Emission
 Integrantes 
 Josue Quinto 24212
 Delmy Guevara 24254
+Ana Arita 24012
 
 
 
